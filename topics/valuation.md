@@ -116,3 +116,5 @@ CAPM is a model that describes the relationship between risk and expected return
     Beta is a correlation between the market and the asset in question. So a Beta of 1 would mean your asset always returns the same as the market. 0 would mean there is no correlation. Higher Beta = more risk (again, there are good arguments as to why this isn't true, but for the purposes of the CAPM that's what it means).
 
 # Discounted Cash Flow (DCF)
+
+DCF is a function for corporate finance and projection of investment within a company/firm which is attempting to embark on a new project. Trying to apply DCF to public market valuation and stock investment doesn't make a whole lot of sense in 2021. Market valuations and stock prices do not adhere to the same set of circumstances and reality that DCF valuations do.

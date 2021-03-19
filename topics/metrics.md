@@ -120,18 +120,24 @@ This section shows metrics measuring how good the management team is at achievin
 
 ## Return on Assets
 
-shows how profitable a company is relative to its total assets and indicates how efficient management is at using its assets to generate earnings. It’s calculated as: Net Income / Total Assets. When you compare two similar companies, the one with a higher ROA looks more attractive.
+> How efficient is management?
+
+Shows how efficient management is at using its assets to generate earnings. Larger than 6% is good.
+
+```
+Net Income / Total Assets
+```
 
 ## Return on Equity
 
-> The rate at which money is reinvested in the business i.e. how fast will it grow
+> The rate at which money is reinvested in the business i.e. how fast will the company grow
 
-ROE = Net income / Shareholder's equity  
+It shows that the company continues to invest in profitable projects. The larger the number, the more it invests. Larger than 8% is good.
+
+```
+ROE = Net income / Shareholder's equity
 ROE = EPS / Book Value
-
-Larger than 8% is good.
-
-shows how profitable a company is relative to shareholder’s equity. It’s calculated as: Net Income / Shareholder’s Equity. When two similar companies are compared, the one with a higher ROE looks more attractive.
+```
 
 # Income Statement
 
