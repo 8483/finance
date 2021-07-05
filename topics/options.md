@@ -1,4 +1,8 @@
-Options are derivatives. They expire every 3rd Friday of each month.
+# Facts
+
+-   Derivatives i.e. instruments based on an underlying stock.
+-   Can only be bought or sold during regular trading hours, unlike stocks which can be traded before or after those hours.
+-   Expire every 3rd Friday of each month.
 
 ## Types
 

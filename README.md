@@ -1,10 +1,18 @@
+# General
+
+There are 4 main assets:
+
+-   Stocks
+-   Bonds
+-   Currencies
+-   Commodities
+
 -   [Terminology](./topics/terminology.md)
--   [Metrics](./topics/metrics.md)
--   [Valuation](./topics/valuation.md)
 -   [Options](./topics/options.md)
 -   [Shorting](./topics/shorting.md)
 
 BID - Highest price a buyer is prepared to pay.
+
 ASK - Lowest price a seller will accept.
 
 No trade can occur until one participant is willing to SELL stock for an ASK price, which another can BUY as a BID price.
@@ -17,3 +25,17 @@ If there are more people who want to buy a stock than people who are willing to 
 BUY:
 Market order: current price
 Limit order: buy when target price is reached
+
+# Fundamental Analysis
+
+Used by value investors. Focuses on financial statements.
+
+-   [Metrics](./topics/metrics.md)
+-   [Valuation](./topics/valuation.md)
+
+# Technical Analysis
+
+Used by day traders. Focuses on daily price movements.
+
+-   [Indicators](./topics/indicators.md)
+-   [Patterns](./topics/patterns.md)
