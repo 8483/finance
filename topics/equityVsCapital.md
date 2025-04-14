@@ -1,21 +1,3 @@
-# Basic
-
-## Derivative
-
-Derivative's price is dependent on or derived from the price of something else. Options are derivatives of financial securities—their value depends on the price of some other asset. Examples of derivatives include calls, puts, futures, forwards, swaps, and mortgage-backed securities, among others.
-
-TL:DR prices based on low volume numbers don’t reflect demand
-
-# Acronyms
-
-```
-mrq = Most Recent Quarter
-ttm = Trailing Twelve Months
-yoy = Year Over Year
-lfy = Last Fiscal Year
-fye = Fiscal Year Ending
-```
-
 # Equity vs Capital
 
 |                         | Equity                                                                                   | Capital                                                                |
