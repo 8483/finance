@@ -1,6 +1,6 @@
 # Valuation
 
-**The value of any financial product is always the present value of the future cash flows.**
+> **The value of any financial product is always the present value of the future cash flows.**
 
 In other words, if in five years the business is projected to produce cash flow of $20 million dollars, how much is that worth today? You can calculate that as:
 
@@ -16,10 +16,10 @@ As a side note, often times you'll see trick questions that will try to allude t
 
 This is based on our individual perspectives dependent on:
 
--   investment goals
--   time horizon
--   available capital
--   risk tolerance
+-   Investment goals
+-   Time horizon
+-   Available capital
+-   Risk tolerance
 
 If you don't know your required rate of return, we can use a **general (default)** one, based on the **Weighted Average Cost of Capital (WACC)**.
 
@@ -118,3 +118,43 @@ CAPM is a model that describes the relationship between risk and expected return
 # Discounted Cash Flow (DCF)
 
 DCF is a function for corporate finance and projection of investment within a company/firm which is attempting to embark on a new project. Trying to apply DCF to public market valuation and stock investment doesn't make a whole lot of sense in 2021. Market valuations and stock prices do not adhere to the same set of circumstances and reality that DCF valuations do.
+
+https://youtu.be/V4YAY6zpJ2E
+
+Imagine you are buying a whole business, and you get to keep all the cash it produces each year, called `free cash flow`.
+
+To figure out the value of the business, you model out 10 years of free cash flow you are likely to recieve as the new owner as the business grows/shrinks, and then you are going to sell the business.
+
+In other words:
+
+1. You dump a whole lot of money
+2. Get 10 years of FCF.
+3. Recieve a big lump of money at the end.
+
+You now need to dicount each of those annual cashflows by the annual return you want to achieve each year ex. 15%, to figure out what all of that is worth today.
+
+Ex. If you predict you are going to get $100 at the 8th year of ownership, you only want to pay $32.70 today because that's the same as investing $32.70 and growing it 15% YoY for 8 years.
+
+You also need to discount the sell price at the 10 year mark.
+
+This gives you the `intrinsic value` of the business. This is the fair value of the business today to achieve 15% each year.
+
+How do you know what each year's FCF is going to be? You don't... You forecast it based on past performance.
+
+The YoY growth rate has the biggest impact on the valuation. This is why some stocks have insane valuations, because investors predict huge growth in the future.
+
+# Reverse engineering DCF
+
+What growth rate would the stock have to show annualy over 10 years to justify buying the shares at the current market cap?
+
+Example:
+
+Tesla despite generating $97B in revenue (April 2025) the past 12 months, has only produced $3.6B in FCF. Assuming you can sell the business after 10 years at x20 FCF multiple, to match the intrinsic value to the current market cap, you'd need a 43% YoY growth.
+
+So, at $480 per share and $1.42T market cap, Tesla would need to show a 52% YoY growth for 10 years. Is this possible?
+
+Tesla grew its REVENUE 42% annualy from 2018 to 2023, but free cash flow is a whole different beast.
+
+Unless the business become wildly more efficient or starts generating substantial high margin cash, both completely dependent on autonomous driving... The valuation is not realistic.
+
+If Tesla achieves the autonomous driving... Then it might be undervalued.
